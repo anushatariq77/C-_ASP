@@ -1,0 +1,38 @@
+c:\users\92312\documents\visual studio 2013\Projects\Project_store\Project_store\bin\Debug\Project_store.exe.config
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\bin\Debug\Project_store.exe
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\bin\Debug\Project_store.pdb
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.csprojResolveAssemblyReference.cache
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.Form1.resources
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.Properties.Resources.resources
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.csproj.GenerateResource.Cache
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.exe
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.pdb
+C:\Users\92312\Documents\Visual Studio 2013\Projects\Project_store\Project_store\obj\Debug\Project_store.Form2.resources
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\bin\Debug\Project_store.exe.config
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.exe
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.pdb
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\bin\Debug\Project_store.exe
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\bin\Debug\Project_store.pdb
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.csprojResolveAssemblyReference.cache
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.Form1.resources
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.Form2.resources
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.Form3.resources
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.Properties.Resources.resources
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.csproj.GenerateResource.Cache
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\Project_store.StoreDetailsForm.resources
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\RdlCompile.cache
+C:\Users\92312\Desktop\Project_store\Project_store\Project_store\obj\Debug\RdlCompile.compiled
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\bin\Debug\Project_store.exe.config
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.exe
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.pdb
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\bin\Debug\Project_store.exe
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\bin\Debug\Project_store.pdb
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.csprojResolveAssemblyReference.cache
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.Form1.resources
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.Form2.resources
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.Form3.resources
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.Properties.Resources.resources
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.StoreDetailsForm.resources
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\Project_store.csproj.GenerateResource.Cache
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\RdlCompile.cache
+C:\Users\92312\Desktop\Projects\Project_store\Project_store\Project_store\obj\Debug\RdlCompile.compiled
